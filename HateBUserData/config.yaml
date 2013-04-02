@@ -1,0 +1,19 @@
+id: HateBUserData
+key: HateBUserData
+name: Hatena Bookmark User RDF Data Plugin
+version: 0.2
+description: <__trans phrase="Functiontag of Hatena Bookmark entry page Update rdf code">
+author_name: maRk
+author_link: http://labs.markdiary.com/
+plugin_link: http://www.markdiary.com/sample/haifu/mt_hateb_user_data.html
+
+blog_config_template: conf.tmpl
+settings:
+    HatenaID:
+        Default: 'HatenaID'
+        Scope: blog
+l10n_lexicon:
+    ja: l10n_ja.yaml
+tags:
+    function:
+        HateBUserData: $HateBUserData::HateBUserData::Tag::_hdlr_hateb_user_data
