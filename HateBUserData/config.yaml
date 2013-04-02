@@ -5,7 +5,7 @@ version: 0.2
 description: <__trans phrase="Functiontag of Hatena Bookmark entry page Update rdf code">
 author_name: maRk
 author_link: http://labs.markdiary.com/
-plugin_link: http://www.markdiary.com/sample/haifu/mt_hateb_user_data.html
+plugin_link: https://bitbucket.org/markdiarycom/mt-plugin-hatebuserdata/
 
 blog_config_template: conf.tmpl
 settings:
